@@ -30,6 +30,7 @@ namespace ConsoleApp1
         {
            //Madarász István
            //Második sor
+
         }
     }
 }
