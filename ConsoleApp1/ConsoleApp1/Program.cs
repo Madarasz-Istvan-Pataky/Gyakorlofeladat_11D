@@ -27,7 +27,17 @@ namespace ConsoleApp1
     class Program
     {
         static void Main(string[] args)
-        {
+        {   //Olvasd be a fájlt egy "iskola" nevű Listába
+
+            //Írasd ki a nevüket azoknak a diákoknak, akik  a 2005-ös évfolyam 'd' osztályába jártak!
+
+            //Hányan jártak a 2004-es évfolyamra?
+
+            //Írasd ki az adatait azoknak akik 2007-ben íratkoztak a suliba és a keresztnevük 'I' betűvel kezdődik!
+            
+            //Volt-e "Adam" nevű tanuló a 2006-os évfolyamon? Ha nem, ahhor írasd ki, hogy "Nem volt ilyen nevű diák" egyébként tabulátorokkal elválasztva írasd ki az adatait! (Ha több ilyen volt akkor mindet!)
+
+            //Írasd ki a 2006 évfolyam a osztályának névsorát a nevsor2006a.txt állományba!
            
         }
     }
