@@ -27,11 +27,11 @@ namespace ConsoleApp1
     class Program
     {
         static void Main(string[] args)
-        {   //Olvasd be a fájlt egy "iskola" nevű Listába
+        {   //Olvasd be a fájlt egy "iskola" nevű Listába ( Turzó Erik)
 
-            //Írasd ki a nevüket azoknak a diákoknak, akik  a 2005-ös évfolyam 'd' osztályába jártak!
+            //Írasd ki a nevüket azoknak a diákoknak, akik  a 2005-ös évfolyam 'd' osztályába jártak! (Ádám)
 
-            //Hányan jártak a 2004-es évfolyamra?
+            //Hányan jártak a 2004-es évfolyamra? (Máté)
 
             //Írasd ki az adatait azoknak akik 2007-ben íratkoztak a suliba és a keresztnevük 'I' betűvel kezdődik!
             
