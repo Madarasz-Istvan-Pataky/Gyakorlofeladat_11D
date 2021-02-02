@@ -33,11 +33,15 @@ namespace ConsoleApp1
 
             //Hányan jártak a 2004-es évfolyamra? (Máté)
 
-            //Írasd ki az adatait azoknak akik 2007-ben íratkoztak a suliba és a keresztnevük 'I' betűvel kezdődik!
+            //Írasd ki az adatait azoknak akik 2007-ben íratkoztak a suliba és a keresztnevük 'I' betűvel kezdődik!(Milan)
             
-            //Volt-e "Adam" nevű tanuló a 2006-os évfolyamon? Ha nem, ahhor írasd ki, hogy "Nem volt ilyen nevű diák" egyébként tabulátorokkal elválasztva írasd ki az adatait! (Ha több ilyen volt akkor mindet!)
+            //Volt-e "Adam" nevű tanuló a 2006-os évfolyamon? Ha nem, ahhor írasd ki, hogy "Nem volt ilyen nevű diák" egyébként tabulátorokkal elválasztva írasd ki az adatait! (Ha több ilyen volt akkor mindet!) (Marcell)
 
-            //Írasd ki a 2006 évfolyam a osztályának névsorát a nevsor2006a.txt állományba!
+            //Mely osztályokba járnak "Nagy" vezetéknevű tanulók? (Dominik)
+
+            //Melyik osztályba íratkozott be először "László" keresztnevű tanuló. (Ha több László is járt abba az évfolyamba, mindeegyik nevét írasd ki!) (Laci)
+
+            //Írasd ki a 2006 évfolyam 'a' osztályának névsorát a nevsor2006a.txt állományba! (Levente)
            
         }
     }
