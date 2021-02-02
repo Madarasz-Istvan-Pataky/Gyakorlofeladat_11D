@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
+using System.Security.AccessControl;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -28,16 +30,20 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {   //Olvasd be a fájlt egy "iskola" nevű Listába
-            List<Diak> Adatok = new List<Diak>();
-            //Írasd ki a nevüket azoknak a diákoknak, akik  a 2005-ös évfolyam 'd' osztályába jártak!
 
-            //Hányan jártak a 2004-es évfolyamra?
+            //Írasd ki a nevüket azoknak a diákoknak, akik  a 2005-ös évfolyam 'd' osztályába jártak! (Ádám)
 
-            //Írasd ki az adatait azoknak akik 2007-ben íratkoztak a suliba és a keresztnevük 'I' betűvel kezdődik!
+            //Hányan jártak a 2004-es évfolyamra? (Máté)
+
+            //Írasd ki az adatait azoknak akik 2007-ben íratkoztak a suliba és a keresztnevük 'I' betűvel kezdődik!(Milan)
             
-            //Volt-e "Adam" nevű tanuló a 2006-os évfolyamon? Ha nem, ahhor írasd ki, hogy "Nem volt ilyen nevű diák" egyébként tabulátorokkal elválasztva írasd ki az adatait! (Ha több ilyen volt akkor mindet!)
+            //Volt-e "Adam" nevű tanuló a 2006-os évfolyamon? Ha nem, ahhor írasd ki, hogy "Nem volt ilyen nevű diák" egyébként tabulátorokkal elválasztva írasd ki az adatait! (Ha több ilyen volt akkor mindet!) (Marcell)
 
-            //Írasd ki a 2006 évfolyam a osztályának névsorát a nevsor2006a.txt állományba!
+            //Mely osztályokba járnak "Nagy" vezetéknevű tanulók? (Dominik)
+
+            //Melyik osztályba íratkozott be először "László" keresztnevű tanuló. (Ha több László is járt abba az évfolyamba, mindeegyik nevét írasd ki!) (Laci)
+
+            //Írasd ki a 2006 évfolyam 'a' osztályának névsorát a nevsor2006a.txt állományba! (Levente)
            
         }
     }
