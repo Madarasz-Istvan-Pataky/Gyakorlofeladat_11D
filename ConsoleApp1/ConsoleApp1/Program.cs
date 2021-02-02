@@ -41,7 +41,7 @@ namespace ConsoleApp1
 
             //Melyik osztályba íratkozott be először "László" keresztnevű tanuló. (Ha több László is járt abba az évfolyamba, mindeegyik nevét írasd ki!) (Laci)
 
-            //Írasd ki a 2006 évfolyam 'a' osztályának névsorát a nevsor2006a.txt állományba! (Levente)
+            //Írasd ki a 2006 évfolyam 'a' osztályának névsorát a nevsor2006a.txt állományba! (Leventeee)
            
         }
     }
