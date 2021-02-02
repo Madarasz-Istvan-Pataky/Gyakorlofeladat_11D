@@ -38,6 +38,8 @@ namespace ConsoleApp1
             //Volt-e "Adam" nevű tanuló a 2006-os évfolyamon? Ha nem, ahhor írasd ki, hogy "Nem volt ilyen nevű diák" egyébként tabulátorokkal elválasztva írasd ki az adatait! (Ha több ilyen volt akkor mindet!)
 
             //Írasd ki a 2006 évfolyam a osztályának névsorát a nevsor2006a.txt állományba!
+            
+            //Johnson was here.
            
         }
     }
