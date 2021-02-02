@@ -28,7 +28,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {   //Olvasd be a fájlt egy "iskola" nevű Listába
-
+            List<Diak> Adatok = new List<Diak>();
             //Írasd ki a nevüket azoknak a diákoknak, akik  a 2005-ös évfolyam 'd' osztályába jártak!
 
             //Hányan jártak a 2004-es évfolyamra?
