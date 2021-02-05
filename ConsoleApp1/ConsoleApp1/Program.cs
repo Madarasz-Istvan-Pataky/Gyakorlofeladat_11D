@@ -36,7 +36,7 @@ namespace ConsoleApp1
             //Írasd ki az adatait azoknak akik 2007-ben íratkoztak a suliba és a keresztnevük 'I' betűvel kezdődik!(Milan)
             
             //Volt-e "Adam" nevű tanuló a 2006-os évfolyamon? Ha nem, ahhor írasd ki, hogy "Nem volt ilyen nevű diák" egyébként tabulátorokkal elválasztva írasd ki az adatait! (Ha több ilyen volt akkor mindet!) (Marcell)
-            //Elkezdem megoldani a feladatot
+            
 
             //Mely osztályokba járnak "Nagy" vezetéknevű tanulók? (Dominik)
 
